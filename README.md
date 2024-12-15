@@ -12,7 +12,7 @@ To write a python program to find the inverse of a matrix
 
 ## Program:
 ## Output:
-![Alt text](<Screenshot from 2024-12-15 12-00-08.png>)
+(<Screenshot from 2024-12-15 12-00-08.png>)
 
 
 ## Result:
